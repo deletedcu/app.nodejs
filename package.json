@@ -33,7 +33,7 @@
     "lodash": "^4.17.11",
     "marked": "^0.5.2",
     "morgan": "^1.9.1",
-    "pug": "~2.0.3"
+    "pug": "~3.0.1"
   },
   "devDependencies": {
     "cheerio": "^1.0.0-rc.2",
